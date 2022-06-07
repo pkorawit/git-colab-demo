@@ -36,9 +36,26 @@ $(function () {
 
         console.log(dataAj)
         console.log(statusStudents)
+    }
+
+    function byAjKorn2nd(){
         
     }
 
+    function Khemthit() {
+        console.log("Hello world");
+        
+    }
 
+    function Non(){
+        
+    }
+    function Koreei(){
+        
+    }
+
+    function bySribilone(){
+
+    }
 
 })
