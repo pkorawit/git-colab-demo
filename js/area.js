@@ -48,6 +48,9 @@ $(function () {
     function Non(){
         
     }
+    function Koreei(){
+        
+    }
 
     function bySribilone(){
 
