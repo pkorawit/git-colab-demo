@@ -33,12 +33,19 @@ $(function () {
     }
 
     function byAjKorn(){
+
+    }
+
+    function byAjKorn2nd(){
+        
+    }
+
+    function Non(){
         
     }
 
     function bySribilone(){
 
     }
-
 
 })
