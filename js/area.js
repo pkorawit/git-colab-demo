@@ -36,6 +36,11 @@ $(function () {
         
     }
 
+    function Khemthit() {
+        console.log("Hello world");
+        
+    }
+
 
 
 
