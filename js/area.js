@@ -43,6 +43,9 @@ $(function () {
     function Non(){
         
     }
+    function Koreei(){
+        
+    }
 
 
 
