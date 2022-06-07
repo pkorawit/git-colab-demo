@@ -32,7 +32,10 @@ $(function () {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
 
-    function byAjKorn(){
+    function byAjKorn(dataAj,statusStudents){
+
+        console.log(dataAj)
+        console.log(statusStudents)
         
     }
 
