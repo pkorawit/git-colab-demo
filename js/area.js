@@ -33,6 +33,10 @@ $(function () {
     }
 
     function byAjKorn(){
+
+    }
+
+    function byAjKorn2nd(){
         
     }
 
