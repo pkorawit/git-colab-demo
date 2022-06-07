@@ -33,6 +33,10 @@ $(function () {
     }
 
     function byAjKorn(){
+
+    }
+
+    function byAjKorn2nd(){
         
     }
 
@@ -41,7 +45,12 @@ $(function () {
         
     }
 
+    function Non(){
+        
+    }
 
+    function bySribilone(){
 
+    }
 
 })
